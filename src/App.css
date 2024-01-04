@@ -1,0 +1,29 @@
+.contact{
+  border: 2px solid #6599;
+ 
+    justify-content: center;
+}
+.headings{
+  display: flex;
+  justify-content: center;
+}
+.list{
+  list-style: none;
+  text-align: center;
+}
+.nav{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 8px;
+font-size: 20px;
+text-decoration: none;
+}
+.nav:hover{
+
+}
+.imgbox{
+  width: 100%;
+  height: 1%;
+  border: 4px solid  #6599;
+  overflow: hidden;
+}
